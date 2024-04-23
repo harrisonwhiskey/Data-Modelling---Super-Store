@@ -19,4 +19,17 @@ The dataset is sourced from an Excel file, comprising three distinct sheets:
 - **People:** Contains data pertaining to regional managers.
 - **Returns:** Provides insights into orders that have been returned, including relevant details.
 
-This project serves as a practical exploration of database design principles and their application in real-world scenarios, with a focus on optimizing data management processes for enhanced operational efficiency.
+# ER-Diagram of Physical Model
+
+![ERD Diagram](ERD_diagram.png)
+
+This diagram represents the physical model of the database, showing the entities, their attributes, and the relationships between them.
+
+# Workbench Forward Engineering
+
+![Workbench](workbench.png)
+
+
+## TODO
+
+- [ ] Perform a set of queries in SQL to test the database functionality.
